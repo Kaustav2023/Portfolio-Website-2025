@@ -385,9 +385,9 @@ const AboutResume = () => {
                             I am an AI Engineer with a passion for building systems that reason. My journey started with data science competitions and evolved into architecting complex RAG pipelines. With strong roots in Python and Deep Learning, I bridge the gap between research and production.
                         </p>
                         <div className="flex flex-col sm:flex-row justify-center gap-4">
-                            <button className="flex items-center justify-center gap-2 px-6 py-3 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-colors">
+                            <a href="https://drive.google.com/file/d/1OD72NoM0UQIUznM-R-mMAteAXAkEzmjZ/view?usp=sharing" target="_blank" rel="noreferrer" className="flex items-center justify-center gap-2 px-6 py-3 bg-white text-black font-bold rounded-lg hover:bg-gray-200 transition-colors">
                                 <Download size={18} /> Download Resume
-                            </button>
+                            </a>
                             <a href="#experience" className="flex items-center justify-center gap-2 px-6 py-3 border border-white/20 text-white font-bold rounded-lg hover:bg-white/5 transition-colors">
                                 <Briefcase size={18} /> View Experience
                             </a>
