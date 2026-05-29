@@ -717,7 +717,7 @@ const About = () => {
             <Reveal delay={500}>
               <div style={{ marginTop: 32, display: 'flex', gap: 16, flexWrap: 'wrap' }}>
                 <a
-                  href="https://drive.google.com/file/d/1OD72NoM0UQIUznM-R-mMAteAXAkEzmjZ/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1feCKsLwT121xU49SCNHtKa7goeLE4vGh/view?usp=sharing"
                   target="_blank"
                   rel="noreferrer"
                   style={{
